@@ -43,8 +43,8 @@
     <TextView
         android:id="@+id/textViewExperience"
         android:layout_width="match_parent"
-        android:layout_height="40dp"
-        android:text="Experience (Years):"
+        android:layout_height="50dp"
+        android:text="Experience:"
         android:layout_marginTop="10dp"
         android:textSize="20dp"/>
 
